@@ -2,8 +2,9 @@
 - 👀 I’m interested in electronics and programming
 - 🌱 I’m currently learning Python  3
 - 📫 How to reach me:
-- Email: aleksi.reede@gmail.com
-- Discord: Mehukatti #6055
+- 📧 Email: aleksi.reede@gmail.com
+- 🤖 Discord: Mehukatti #6055
+- 🐦 Telegram: @Aleksi220
 
 <!---
 aleksireede/aleksireede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
