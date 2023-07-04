@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @aleksireede
 - 👀 I’m interested in electronics and programming
-- 🌱 I’m currently learning Python  3 and Bash scripting
+- 🌱 I’m currently learning Python and Unity 2d game development
 - 📫 How to reach me:
 - 📧 Email: aleksi.reede@gmail.com
-- 🤖 Discord: Mehukatti #6055
+- 🤖 Discord: _mehukatti
 - 🐦 Telegram: @Aleksi220
 
 <!---
