@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aleksireede
+- 👋 Hi, I’m @aleksireede a student at HAMK UAS
 - 👀 I’m interested in electronics and programming
-- 🌱 I’m currently learning Python and Unity 2d game development
+- 🌱 I’m currently learning Python and Minecraft Java Plugins
 - 📫 How to reach me:
 - 📧 Email: aleksi.reede@gmail.com
 - 🤖 Discord: _mehukatti
