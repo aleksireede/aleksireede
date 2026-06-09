@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Minecraft Java Plugins
 - 📫 How to reach me:
 - 📧 Email: aleksi.reede@gmail.com
-- 🤖 Discord: _mehukatti
+- 🤖 Discord: agentti_kowalski
 - 🐦 Telegram: @Aleksi220
 
 <!---
